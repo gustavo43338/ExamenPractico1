@@ -8,6 +8,8 @@ function App() {
   return <LoginScreen />;
 }
 
+
+
 registerRootComponent(App);
 
 import { HelloWave } from '@/components/HelloWave';
